@@ -16,7 +16,7 @@ class Test_Credenece:
         # 4. Enter Name
         driver.find_element(By.ID, "name").send_keys("Credence")
         # 5. Enter Email
-        driver.find_element(By.ID, "email").send_keys("bhushan01@1test.com")
+        driver.find_element(By.ID, "email").send_keys("bhushan012356@1test.com")
         # 6. Enter Password
         driver.find_element(By.NAME, "password").send_keys("Credence@1234")
         # 7. Enter Confirm Password
